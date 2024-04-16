@@ -986,25 +986,25 @@ MonoBehaviour:
   sounds:
   - name: MainMenu
     clip: {fileID: 8300000, guid: 20fa87ed923504f4e80750a1b9ea8c09, type: 3}
-    volume: 0.49
+    volume: 0.316
     pitch: 1
     source: {fileID: 0}
     loop: 1
   - name: Dance
     clip: {fileID: 8300000, guid: 9c3c191ae3bb57b478e9174386a2511f, type: 3}
-    volume: 0.51
+    volume: 0.419
     pitch: 1
     source: {fileID: 0}
     loop: 0
   - name: Sprint
     clip: {fileID: 8300000, guid: 1f2fd8e68918b8b44aa73d7b9beeba8a, type: 3}
-    volume: 0.52
+    volume: 0.278
     pitch: 1
     source: {fileID: 0}
     loop: 1
   - name: Main
     clip: {fileID: 8300000, guid: 6ba02c4a84ced5d42bba64229da4a48f, type: 3}
-    volume: 0.269
+    volume: 0.156
     pitch: 1
     source: {fileID: 0}
     loop: 1
